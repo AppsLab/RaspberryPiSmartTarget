@@ -14,3 +14,5 @@ A random message is posted along with the picture taken by the Dropcam.
 The whole action is immortalized in the interwebz.
 
 For more information on how to build the Target check out http://www.instructables.com/id/Raspberry-Pi-Smart-Target/
+
+![alt tag](http://www.instructables.com/files/deriv/F3K/L8DX/H8AZ1NP8/F3KL8DXH8AZ1NP8.MEDIUM.jpg)
